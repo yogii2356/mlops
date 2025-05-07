@@ -30,7 +30,7 @@ Create a file named app.py and add:
 
 Step 3: Create requirements.txt
 
-# This file tells Docker what dependencies to install.
+This file tells Docker what dependencies to install.
 flask
 
 
